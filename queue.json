@@ -1,0 +1,207 @@
+{
+ "_readme": "Social content queue for AI Lead Finders. One row per video. Platforms: tiktok/facebook/instagram are scheduled in GoHighLevel Social Planner; x is scheduled via Buffer (Zapier) by a daily top-up task, 9 days ahead. Times are 13:00 UTC (8:00 AM Bogota).",
+ "accounts": {
+  "tiktok": "@grandsonmoneybags",
+  "facebook": "AI Lead Finders page",
+  "instagram": "@aileadfinders",
+  "x": "@aileadfinders via Buffer"
+ },
+ "posts": [
+  {
+   "n": 1,
+   "date": "2026-10-31",
+   "time_utc": "13:00",
+   "video": "https://raw.githubusercontent.com/remcoonline/tiktok-media/main/v3/tiktok_01_2026-10-31.mp4",
+   "caption": "New Jersey real estate market update: pending sales down 11.3% (NJ Realtors, Sept). Every call counts now. Comment AI for the 24/7 voice agent. #njrealestate #realestateagent #realtortips #aivoiceagent #AILeadFinders",
+   "x_caption": "New Jersey real estate market update: pending sales down 11.3% (NJ Realtors, Sept). Every call counts now. Reply AI for the 24/7 voice agent. #njrealestate #realestateagent #AILeadFinders",
+   "status": {
+    "tiktok": "scheduled",
+    "facebook": "scheduled",
+    "instagram": "scheduled",
+    "x": "scheduled"
+   }
+  },
+  {
+   "n": 2,
+   "date": "2026-11-02",
+   "time_utc": "13:00",
+   "video": "https://raw.githubusercontent.com/remcoonline/tiktok-media/main/v3/tiktok_02_2026-11-02.mp4",
+   "caption": "NJ housing inventory is up 12.1% year over year. Speed to lead decides who gets the listing. Comment AI. #newjerseyrealestate #speedtolead #realestateagent #realestatetips #AILeadFinders",
+   "x_caption": "NJ housing inventory is up 12.1% year over year. Speed to lead decides who gets the listing. Reply AI. #newjerseyrealestate #speedtolead #AILeadFinders",
+   "status": {
+    "tiktok": "scheduled",
+    "facebook": "scheduled",
+    "instagram": "scheduled",
+    "x": "scheduled"
+   }
+  },
+  {
+   "n": 3,
+   "date": "2026-11-04",
+   "time_utc": "13:00",
+   "video": "https://raw.githubusercontent.com/remcoonline/tiktok-media/main/v3/tiktok_03_2026-11-04.mp4",
+   "caption": "Mortgage rates dipped to 7.32% (Freddie Mac). Waiting buyers are waking up. Reactivate your database with AI texting. Comment AI. #mortgagerates #njrealestate #realtortips #realestatemarketing #AILeadFinders",
+   "x_caption": "Mortgage rates dipped to 7.32% (Freddie Mac). Waiting buyers are waking up. Reactivate your database with AI texting. Reply AI. #mortgagerates #njrealestate #AILeadFinders",
+   "status": {
+    "tiktok": "scheduled",
+    "facebook": "scheduled",
+    "instagram": "scheduled",
+    "x": "scheduled"
+   }
+  },
+  {
+   "n": 4,
+   "date": "2026-11-06",
+   "time_utc": "13:00",
+   "video": "https://raw.githubusercontent.com/remcoonline/tiktok-media/main/v3/tiktok_04_2026-11-06.mp4",
+   "caption": "New Jersey foreclosure activity is rising (ATTOM). Investors and agents who follow up first, with care, help the most homeowners. Comment AI. #preforeclosure #njrealestate #realestateinvesting #motivatedsellers #AILeadFinders",
+   "x_caption": "New Jersey foreclosure activity is rising (ATTOM). Investors and agents who follow up first, with care, help the most homeowners. Reply AI. #preforeclosure #njrealestate #AILeadFinders",
+   "status": {
+    "tiktok": "scheduled",
+    "facebook": "scheduled",
+    "instagram": "scheduled",
+    "x": "scheduled"
+   }
+  },
+  {
+   "n": 5,
+   "date": "2026-11-08",
+   "time_utc": "13:00",
+   "video": "https://raw.githubusercontent.com/remcoonline/tiktok-media/main/v3/tiktok_05_2026-11-08.mp4",
+   "caption": "NJ days on market are up to 39. That means more expired listings. AI reaches expireds first. Comment AI. #expiredlistings #njrealtor #realestateagent #listingleads #AILeadFinders",
+   "x_caption": "NJ days on market are up to 39. That means more expired listings. AI reaches expireds first. Reply AI. #expiredlistings #njrealtor #AILeadFinders",
+   "status": {
+    "tiktok": "scheduled",
+    "facebook": "scheduled",
+    "instagram": "scheduled",
+    "x": "scheduled"
+   }
+  },
+  {
+   "n": 6,
+   "date": "2026-11-10",
+   "time_utc": "13:00",
+   "video": "https://raw.githubusercontent.com/remcoonline/tiktok-media/main/v3/tiktok_06_2026-11-10.mp4",
+   "caption": "NJ townhouse-condo inventory is up 22.5%. Buyers shop at night. An AI chatbot answers them while you sleep. Comment AI. #condosforsale #njrealestate #realestatetech #aichatbot #AILeadFinders",
+   "x_caption": "NJ townhouse-condo inventory is up 22.5%. Buyers shop at night. An AI chatbot answers them while you sleep. Reply AI. #condosforsale #njrealestate #AILeadFinders",
+   "status": {
+    "tiktok": "scheduled",
+    "facebook": "scheduled",
+    "instagram": "scheduled",
+    "x": "pending"
+   }
+  },
+  {
+   "n": 7,
+   "date": "2026-11-12",
+   "time_utc": "13:00",
+   "video": "https://raw.githubusercontent.com/remcoonline/tiktok-media/main/v3/tiktok_07_2026-11-12.mp4",
+   "caption": "NJ median home price: $550,000 (NJ Realtors, Sept). Every missed prospect costs more now. AI books appointments for you. Comment AI. #njhomes #homeprices #realestateagent #appointmentsetting #AILeadFinders",
+   "x_caption": "NJ median home price: $550,000 (NJ Realtors, Sept). Every missed prospect costs more now. AI books appointments for you. Reply AI. #njhomes #homeprices #AILeadFinders",
+   "status": {
+    "tiktok": "scheduled",
+    "facebook": "scheduled",
+    "instagram": "scheduled",
+    "x": "pending"
+   }
+  },
+  {
+   "n": 8,
+   "date": "2026-11-14",
+   "time_utc": "13:00",
+   "video": "https://raw.githubusercontent.com/remcoonline/tiktok-media/main/v3/tiktok_08_2026-11-14.mp4",
+   "caption": "New Jersey real estate: more sellers, fewer buyers committing. Win the listing appointment first. Comment AI. #listingagent #njrealestate #realtortips #sellerleads #AILeadFinders",
+   "x_caption": "New Jersey real estate: more sellers, fewer buyers committing. Win the listing appointment first. Reply AI. #listingagent #njrealestate #AILeadFinders",
+   "status": {
+    "tiktok": "scheduled",
+    "facebook": "scheduled",
+    "instagram": "scheduled",
+    "x": "pending"
+   }
+  },
+  {
+   "n": 9,
+   "date": "2026-11-16",
+   "time_utc": "13:00",
+   "video": "https://raw.githubusercontent.com/remcoonline/tiktok-media/main/v3/tiktok_09_2026-11-16.mp4",
+   "caption": "Real estate myth busted: NJ new listings are UP 4.2% year to date (NJ Realtors). The issue isn't supply, it's follow-up. Comment AI. #realestatemyths #njrealestate #followup #realestateagent #AILeadFinders",
+   "x_caption": "Real estate myth busted: NJ new listings are UP 4.2% year to date (NJ Realtors). The issue isn't supply, it's follow-up. Reply AI. #realestatemyths #njrealestate #AILeadFinders",
+   "status": {
+    "tiktok": "scheduled",
+    "facebook": "scheduled",
+    "instagram": "scheduled",
+    "x": "pending"
+   }
+  },
+  {
+   "n": 10,
+   "date": "2026-11-18",
+   "time_utc": "13:00",
+   "video": "https://raw.githubusercontent.com/remcoonline/tiktok-media/main/v3/tiktok_10_2026-11-18.mp4",
+   "caption": "NJ wholesalers: rising inventory and longer days on market create motivated sellers. Let AI do the qualifying. Comment AI. #wholesaling #realestateinvesting #motivatedsellers #njinvestor #AILeadFinders",
+   "x_caption": "NJ wholesalers: rising inventory and longer days on market create motivated sellers. Let AI do the qualifying. Reply AI. #wholesaling #realestateinvesting #AILeadFinders",
+   "status": {
+    "tiktok": "scheduled",
+    "facebook": "scheduled",
+    "instagram": "scheduled",
+    "x": "pending"
+   }
+  },
+  {
+   "n": 11,
+   "date": "2026-11-20",
+   "time_utc": "13:00",
+   "video": "https://raw.githubusercontent.com/remcoonline/tiktok-media/main/v3/tiktok_11_2026-11-20.mp4",
+   "caption": "Holiday real estate marketing: NJ sellers research in December, list in January. Stay top of mind on autopilot. Comment AI. #realestatemarketing #holidaymarketing #njrealtor #smsmarketing #AILeadFinders",
+   "x_caption": "Holiday real estate marketing: NJ sellers research in December, list in January. Stay top of mind on autopilot. Reply AI. #realestatemarketing #holidaymarketing #AILeadFinders",
+   "status": {
+    "tiktok": "scheduled",
+    "facebook": "scheduled",
+    "instagram": "scheduled",
+    "x": "pending"
+   }
+  },
+  {
+   "n": 12,
+   "date": "2026-11-22",
+   "time_utc": "13:00",
+   "video": "https://raw.githubusercontent.com/remcoonline/tiktok-media/main/v3/tiktok_12_2026-11-22.mp4",
+   "caption": "The rate lock-in effect is keeping NJ homeowners in place. They will move eventually. Be the agent they remember. Comment AI. #ratelockin #njrealestate #realestatetips #leadnurturing #AILeadFinders",
+   "x_caption": "The rate lock-in effect is keeping NJ homeowners in place. They will move eventually. Be the agent they remember. Reply AI. #ratelockin #njrealestate #AILeadFinders",
+   "status": {
+    "tiktok": "scheduled",
+    "facebook": "scheduled",
+    "instagram": "scheduled",
+    "x": "pending"
+   }
+  },
+  {
+   "n": 13,
+   "date": "2026-11-24",
+   "time_utc": "13:00",
+   "video": "https://raw.githubusercontent.com/remcoonline/tiktok-media/main/v3/tiktok_13_2026-11-24.mp4",
+   "caption": "The AI real estate stack: voice agent, AI texting, and chatbot that books appointments. You just close. Comment AI. #realestatetech #aiforrealtors #realestateagent #thanksgiving #AILeadFinders",
+   "x_caption": "The AI real estate stack: voice agent, AI texting, and chatbot that books appointments. You just close. Reply AI. #realestatetech #aiforrealtors #AILeadFinders",
+   "status": {
+    "tiktok": "scheduled",
+    "facebook": "scheduled",
+    "instagram": "scheduled",
+    "x": "pending"
+   }
+  },
+  {
+   "n": 14,
+   "date": "2026-11-26",
+   "time_utc": "13:00",
+   "video": "https://raw.githubusercontent.com/remcoonline/tiktok-media/main/v3/tiktok_14_2026-11-26.mp4",
+   "caption": "Happy Thanksgiving. New Jersey real estate 2026 in numbers, and the one skill that wins 2027: speed. Comment AI. #njrealestate #realestate2027 #housingmarket #realestateagent #AILeadFinders",
+   "x_caption": "Happy Thanksgiving. New Jersey real estate 2026 in numbers, and the one skill that wins 2027: speed. Reply AI. #njrealestate #realestate2027 #AILeadFinders",
+   "status": {
+    "tiktok": "scheduled",
+    "facebook": "scheduled",
+    "instagram": "scheduled",
+    "x": "pending"
+   }
+  }
+ ]
+}
